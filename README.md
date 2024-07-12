@@ -8,3 +8,6 @@ also from Hugging Face
 
 Finally, the inference notebook takes the finetuned/trained model from hugging face and applies it 
 to new imagery in new locations. There are some measurement functions for determining performance, and animations.
+
+![earth_smoking](https://github.com/user-attachments/assets/3b8e5847-3111-4cc8-b2fc-c43caa4e4eef)
+
